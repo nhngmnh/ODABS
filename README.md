@@ -1,4 +1,5 @@
-ODABS - Online Doctor Appointment Booking System
+
+  ODABS - Online Doctor Appointment Booking System
 
 🌟 Mô tả ngắn gọn
 ODABS là một hệ thống đặt lịch hẹn bác sĩ trực tuyến hiện đại, giúp người dùng dễ dàng tìm kiếm và đặt lịch hẹn với bác sĩ thông qua một nền tảng trực tuyến thân thiện và hiệu quả. Dự án được xây dựng trên MERN Stack với các công nghệ tiên tiến nhằm đảm bảo hiệu năng và trải nghiệm người dùng.
@@ -45,16 +46,12 @@ Tạo, chỉnh sửa, hủy, và thanh toán các lịch hẹn.
 
 🚀 Hướng dẫn chạy dự án:
 1. Clone repository:
-
-git clone <repo-url>
+git clone https://github.com/nhngmnh/ODABS.git
 cd ODABS
-
 2. Cài đặt dependencies:
 npm install
-
 3. chạy frontend và admin:
 npm run dev
-
 4. chạy backend:
 npm run server
 

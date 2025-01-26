@@ -47,7 +47,6 @@ Tạo, chỉnh sửa, hủy, và thanh toán các lịch hẹn.
 🚀 Hướng dẫn chạy dự án:
 1. Clone repository:
 git clone https://github.com/nhngmnh/ODABS.git
-cd ODABS
 2. Cài đặt dependencies:
 npm install
 3. chạy frontend và admin:
